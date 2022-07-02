@@ -1,2 +1,2 @@
 # prettyderby
-赛马娘
+prettyderby
